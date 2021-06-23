@@ -1,0 +1,29 @@
+.blog-info {
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+  .blog-details-title {
+    text-align: center;
+    font-size: 25px;
+  }
+  .author-details {
+    display: flex;
+    margin-bottom: 3px;
+  }
+  .author-pic {
+    width: 50px;
+    border-radius: 50%;
+  }
+  .blog-image {
+    border-radius: 5px;
+    width: 100%;
+  }
+  .blog-content {
+    color: #000000;
+  }
+  .details-author-name {
+    color: #000000;
+    font-weight: bold;
+  }

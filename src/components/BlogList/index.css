@@ -1,0 +1,10 @@
+.blog-container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 70px;
+  }
+.top-section {
+  width: 83%;
+  margin-left: auto;
+}
